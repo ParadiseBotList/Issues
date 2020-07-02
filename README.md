@@ -1,5 +1,5 @@
 # Paradise Bot List Issues
-Report bugs and give feedback regarding the Paradise Bot List.
+Report Bugs, Create Issues, Respond to Issues and give Feedback regarding the Paradise Bot List.
 
 # Quick Access
 [Create a Issue](https://github.com/ParadiseBotList/Issues/issues/new)
